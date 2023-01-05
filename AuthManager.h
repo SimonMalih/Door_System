@@ -9,6 +9,9 @@
 #include <string>
 #include "LCDDisplay.h"
 
+// keypad from pins 2 to 18
+
+
 // 0 = menu
 // 1 = pin
 // 2 = fingerprint
